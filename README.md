@@ -1,174 +1,114 @@
-# [Project Name]
+# Canales  Portfolio
 
-[One-sentence description: What does this project do?]
+Personal portfolio website showcasing my web development projects, technical skills, and experience as an Information Technology graduate.
 
-[Optional: 2-3 sentence expansion of what it is and why it exists]
+## About Me
 
----
+I am a Bachelor of Science in Information Technology graduate with hands-on experience developing web-based applications using HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building practical solutions that improve productivity, organization, and business operations.
 
-## Quick Start
+This portfolio highlights projects that demonstrate my skills in front-end development, back-end development, database management, responsive web design, and problem-solving.
 
-### Prerequisites
-- [Node.js v18+]
-- [npm or yarn]
-- [Any other required tools or accounts]
+## Featured Projects
 
-### Installation
+### To-Do List Application
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/...repo-url.git]
-cd [project-name]
+A task management application designed to help users organize daily activities and improve productivity.
 
-# 2. Install dependencies
-npm install
-# or: yarn install
+**Key Features**
 
-# 3. Set up environment variables
-cp .env.example .env.local
-# Open .env.local and fill in the required values
+* Create, edit, and delete tasks
+* Task status management
+* Responsive user interface
+* Clean and intuitive design
 
-# 4. Initialize the database (if applicable)
-npm run db:setup
+**Technologies Used**
 
-# 5. Start the development server
-npm run dev
-```
-
-**The project is now running!** Open [http://localhost:3000](http://localhost:3000) in your browser.
+* HTML
+* CSS
+* JavaScript
 
 ---
 
-## Available Scripts
+### IndatFlow
 
-```bash
-npm run dev           # Start development server
-npm run build         # Build for production
-npm run start         # Run production build
-npm run test          # Run tests
-npm run lint          # Check code style
-npm run type-check    # Run TypeScript type checking
-npm run db:migrate    # Run database migrations
-npm run db:setup      # Initialize database from scratch
-```
+A project management and financial tracking system designed for freelancers, agencies, and small businesses to monitor projects, clients, payments, expenses, and tasks in one platform.
 
----
+**Key Features**
 
-## Project Structure
+* Client management
+* Project tracking
+* Payment monitoring
+* Expense tracking
+* Task management
+* Dashboard reporting
+* Financial overview
 
-```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components (if Next.js) or routes
-├── lib/             # Utility functions and helpers
-├── __tests__/       # Test files
-└── types/           # TypeScript type definitions
+**Technologies Used**
 
-Configuration files:
-├── .env.example     # Environment variable template
-├── .env.local       # Your local env vars (add to .gitignore)
-├── package.json     # Dependencies and scripts
-└── tsconfig.json    # TypeScript configuration
-```
+* PHP
+* MySQL
+* JavaScript
+* HTML
+* CSS
 
 ---
 
-## Environment Variables
+### Portfolio Website
 
-Copy `.env.example` to `.env.local` and fill in your values. Never commit `.env.local` to git.
+A responsive personal portfolio website created to showcase projects, skills, and professional information.
 
-**Required variables:**
-- `DATABASE_URL` — [Description]
-- `API_KEY` — [Description]
-- `[OTHER_VAR]` — [Description]
+**Key Features**
 
-**Optional variables:**
-- `DEBUG` — Set to `true` for verbose logging
+* Responsive design
+* Project showcase section
+* Skills section
+* Contact information
+* Modern and professional layout
 
----
+**Technologies Used**
 
-## Contributing
+* HTML
+* CSS
+* JavaScript
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Make your changes
-4. Write tests for your changes
-5. Run `npm run lint` and `npm test` to verify
-6. Commit with a descriptive message: `git commit -m "Add feature X"`
-7. Push and open a pull request
+## Technical Skills
 
-**Code Style**: [ESLint, Prettier, etc.] — runs automatically on commit
+### Front-End Development
 
----
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
 
-## Testing
+### Back-End Development
 
-```bash
-npm test              # Run all tests
-npm run test:watch   # Run tests in watch mode
-npm run test:coverage # Generate coverage report
-```
+* PHP
+* MySQL
 
-All pull requests require passing tests before merge.
+### Tools & Technologies
 
----
+* Git
+* GitHub
+* Visual Studio Code
+* Claude Code
+* AI-Assisted Development Tools
 
-## Deployment
+## Education
 
-### Development (Preview)
-```bash
-# Preview deployments are automatic on pull requests
-# Access preview URL from the PR comment
-```
+**Bachelor of Science in Information Technology**
 
-### Production
-```bash
-# Deployments to production are manual from the main branch
-npm run build
-npm run deploy
-# Or use your deployment platform's dashboard
-```
+Focused on software development, database management, web technologies, and information systems.
 
----
+## Goals
 
-## Troubleshooting
+I am actively seeking opportunities where I can contribute my technical skills, continue learning modern development practices, and gain professional experience in software and web development.
 
-**"Command not found: [command]"**
-- Run `npm install` again to ensure all dependencies are installed
-- Check that you're in the project directory
+## Contact
 
-**"Cannot find module"**
-- Delete `node_modules/` and `package-lock.json`
-- Run `npm install` again
+Feel free to connect with me through GitHub or LinkedIn.
 
-**"Database connection failed"**
-- Check `.env.local` has correct `DATABASE_URL`
-- Verify the database server is running
-- Check your internet connection
-
-**"Port already in use"**
-- Change the port in `package.json` scripts or use `PORT=3001 npm run dev`
-
-For more help:
-- Check the [Troubleshooting Wiki](link-to-wiki)
-- Open an issue: [GitHub Issues](link)
-- Ask in Slack: [#channel-name]
-
----
+GitHub: https://github.com/indat2025
 
 ## License
 
-[MIT / Apache 2.0 / Your License]
-
----
-
-## Additional Resources
-
-- **Documentation**: [Link]
-- **Issue Tracker**: [Link]
-- **Design System**: [Link]
-- **API Reference**: [Link]
-
----
-
-**Questions?** Reach out to the team in [#slack-channel] or open an issue.
+This project is intended for portfolio and demonstration purposes.
