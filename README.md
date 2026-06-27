@@ -1,12 +1,12 @@
 # Canales  Portfolio
 
-Personal portfolio website showcasing my web development projects, technical skills, and experience as an Information Technology graduate.
+Personal portfolio website showcasing my web development projects, technical skills and experience as an Information Technology graduate.
 
 ## About Me
 
-I am a Bachelor of Science in Information Technology graduate with hands-on experience developing web-based applications using HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building practical solutions that improve productivity, organization, and business operations.
+I am a Bachelor of Science in Information Technology graduate with hands-on experience developing web-based applications using HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building practical solutions that improve productivity, organization and business operations.
 
-This portfolio highlights projects that demonstrate my skills in front-end development, back-end development, database management, responsive web design, and problem-solving.
+This portfolio highlights projects that demonstrate my skills in front-end development, back-end development, database management, responsive web design and problem-solving.
 
 ## Featured Projects
 
@@ -31,7 +31,7 @@ A task management application designed to help users organize daily activities a
 
 ### IndatFlow
 
-A project management and financial tracking system designed for freelancers, agencies, and small businesses to monitor projects, clients, payments, expenses, and tasks in one platform.
+A project management and financial tracking system designed for freelancers, agencies and small businesses to monitor projects, clients, payments, expenses and tasks in one platform.
 
 **Key Features**
 
@@ -97,7 +97,7 @@ A responsive personal portfolio website created to showcase projects, skills, an
 
 **Bachelor of Science in Information Technology**
 
-Focused on software development, database management, web technologies, and information systems.
+Focused on software development, database management, web technologies and information systems.
 
 ## Goals
 
